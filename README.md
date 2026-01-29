@@ -1,6 +1,6 @@
 # Real-Time-Messaging-Application
 
-Real-Time-Messaging-Application is a chatting application which I will use for future projects:
+Real-Time Messaging Application is a chat application that serves as a foundation for my future projects.
 
 - **Backend:** Node.js + Express (REST API)
 - **Database:** Postgres (Docker)
