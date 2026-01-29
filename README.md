@@ -1,6 +1,6 @@
-# EarlyTrip
+# Real-Time-Messaging-Application
 
-EarlyTrip is a full-stack app with:
+Real-Time-Messaging-Application is a chatting application which I will use for future projects:
 
 - **Backend:** Node.js + Express (REST API)
 - **Database:** Postgres (Docker)
